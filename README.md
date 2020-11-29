@@ -1,1 +1,3 @@
 # lab
+
+![](assets/preview.jpg)
