@@ -17,14 +17,13 @@
   const invz = false;
 
   const offset = 100;
-  const maxcol = 0;
-  const version = "basis8_b_png_optimized_compact";
+  const maxcol = 4;
+  const version = "basis8_b_png";
   const extrinsics = [[0.999980628490448,-0.0062099965289235115,0.0004685564781539142,0.0,0.006202307064086199,0.9998692274093628,0.014934290200471878,0.0,-0.0005612362292595208,-0.014931092970073223,0.9998883605003357,0.0,-0.11145409941673279,0.004178870003670454,-0.01144387386739254,1.0]];
 
   const rads = [[0.22585790455341345,0.1466242164373398,0.07697599679231644]];
   const focal  = 4.447217666914263;
 
-  
   const max_viewing_right =  0.1;
   const max_viewing_left =  -0.1;
   const max_viewing_down = -0.08;
